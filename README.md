@@ -4,12 +4,6 @@ A full-stack task management application designed with a focus on productivity a
 
 ------
 
-## 🖼️ Preview
-
-*The main interface showing active tasks, priority levels, and the upcoming tasks section.*
-
-------
-
 ## ✨ Features
 
 - **Task Management:** Create, edit, and delete tasks with ease.
@@ -39,3 +33,15 @@ A full-stack task management application designed with a focus on productivity a
 ------
 
 ## 📸 Gallery
+## Active tasks
+<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/f871252e-6aec-478f-9535-77d8230f776f" />
+
+## Archived tasks
+<img width="1919" height="986" alt="image" src="https://github.com/user-attachments/assets/c7bdac7a-dde9-43d9-9680-fdb4a0cbcc8f" />
+
+## Video
+<video src="https://github.com/Matvey-Shatskiy/To-Do-List/Video_project" width="100%" controls></video>
+
+
+
+
